@@ -99,7 +99,7 @@ Bank-Management-system/
 
 Contributions are welcome!
 
-* Fork the repo
+* Fork the reposi
 * Create a new branch
 * Commit your changes
 * Submit a Pull Request 🚀
