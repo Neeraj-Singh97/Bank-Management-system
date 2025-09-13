@@ -60,7 +60,8 @@ From the **main menu**, you can:
 ```
 Bank-Management-system/
 │
-├── Bank-Management/
+├── Bank-Management/[Bank App.pdf](https://github.com/user-attachments/files/22310297/Bank.App.pdf)
+
 │   ├── app.py        # Streamlit UI
 │   ├── hello.py      # Backend logic
 │   └── data.json     # Data storage (auto-generated)
