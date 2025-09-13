@@ -1,0 +1,133 @@
+[
+    {
+        "name": "akarsh",
+        "age": 23,
+        "email": "akarsh@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "harsh patel",
+        "age": 24,
+        "email": "harsh@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "Akarsh vyas",
+        "age": 23,
+        "email": "akarsh@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 0
+    },
+    {
+        "name": "Neeraj Singh",
+        "age": 25,
+        "email": "neerajkumark868@gmail.com",
+        "pin": 2020,
+        "accountNo.": "y#4H5r9",
+        "balance": 5000
+    },
+    {
+        "name": "Neeraj",
+        "age": 20,
+        "email": "Neeraj@gmail.com",
+        "pin": 2044,
+        "accountNo.": "4l069Wq",
+        "balance": 0
+    },
+    {
+        "name": "Nisha Yadav",
+        "age": 24,
+        "email": "Nishayadav@gmail.com",
+        "pin": 2025,
+        "accountNo.": "2941478",
+        "balance": 0
+    },
+    {
+        "name": "Nisha Yadav",
+        "age": 24,
+        "email": "Nishayadav@gmail.com",
+        "pin": 2025,
+        "accountNo.": "5624117",
+        "balance": 0
+    },
+    {
+        "name": "Nisha Yadav",
+        "age": 24,
+        "email": "Nishayadav@gmail.com",
+        "pin": 2025,
+        "accountNo.": "8428721",
+        "balance": 10000,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 5000,
+                "balance": 5000
+            },
+            {
+                "type": "Deposit",
+                "amount": 5000,
+                "balance": 10000
+            }
+        ]
+    },
+    {
+        "name": "Nisha Yadav",
+        "age": 24,
+        "email": "Nishayadav@gmail.com",
+        "pin": 2025,
+        "accountNo.": "1737559",
+        "balance": 0
+    },
+    {
+        "name": "Nisha Yadav",
+        "age": 24,
+        "email": "Nishayadav@gmail.com",
+        "pin": 2025,
+        "accountNo.": "6116461",
+        "balance": 0
+    },
+    {
+        "name": "Nisha Yadav",
+        "age": 24,
+        "email": "Nishayadav@gmail.com",
+        "pin": 2025,
+        "accountNo.": "7144822",
+        "balance": 0
+    },
+    {
+        "name": "Nisha Yadav",
+        "age": 24,
+        "email": "Nishayadav@gmail.com",
+        "pin": 2025,
+        "accountNo.": "3815453715",
+        "balance": 60999,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 10000,
+                "balance": 65999
+            },
+            {
+                "type": "Withdraw",
+                "amount": 5000,
+                "balance": 60999
+            }
+        ]
+    },
+    {
+        "name": "Rajesh kumar",
+        "age": 32,
+        "email": "Rajesh123@gmail.com",
+        "pin": 3005,
+        "Phone Number": "897898798",
+        "address": "Missal gari ghaziabad U.P india 202033",
+        "aadhaar": "345436654776",
+        "accountNo.": "7486816571",
+        "balance": 0
+    }
+]
